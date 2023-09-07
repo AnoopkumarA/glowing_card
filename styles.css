@@ -89,7 +89,7 @@ body {
     display: inline-flex;
     position: relative;
     top: 110%;
-    left: -1%;
+    left: -0.5%;
   }
   
 .card-container .card .wrapper .icon {
